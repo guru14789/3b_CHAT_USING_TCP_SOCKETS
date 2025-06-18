@@ -1,6 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-## NAME : GAUTHAM KRISHNA S
-## REGISTER NUMBER : 212223240036
+## NAME : sreekumar S
+## REGISTER NUMBER : 212223240157
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
